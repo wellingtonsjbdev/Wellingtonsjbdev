@@ -104,8 +104,8 @@ Acredito no aprendizado contínuo e procuro evoluir um pouco todos os dias, tant
 
 # 🌎 Onde me encontrar
 
-- 💼 LinkedIn:
-- 📧 Email:
+- 💼 LinkedIn:https://www.linkedin.com/in/wellington-ramos-pereira-059a84199
+- 📧 Email:wellingtonsjb6@gmail.com
 
 ---
 
@@ -116,7 +116,7 @@ Acredito no aprendizado contínuo e procuro evoluir um pouco todos os dias, tant
 ⭐ Sempre aprendendo.
 ⭐ Sempre evoluindo.
 
-</div>## Hi there 👋
+
 
 <!--
 **wellingtonsjbdev/Wellingtonsjbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
